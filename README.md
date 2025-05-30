@@ -6,6 +6,8 @@
 
 Lspace is an open-source API backend and server that implements the **Model Context Protocol (MCP)**. It enables developers to integrate intelligent knowledge base generation and management capabilities into their workflows, connecting AI agents and other tools to managed content repositories. (See [modelcontextprotocol.io](https://modelcontextprotocol.io) for more on MCP).
 
+For comprehensive technical documentation, project details, and an example of a knowledge base built with Lspace, please see the [official Lspace documentation repository](https://github.com/Lspace-io/lspace-docs).
+
 ## Quick Start: Using Lspace MCP Server with Clients
 
 This guide helps you set up the Lspace server and configure it for use with Model Context Protocol (MCP) clients like Cursor or Claude Desktop.
