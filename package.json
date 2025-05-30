@@ -1,0 +1,76 @@
+{
+  "name": "lspace-server",
+  "version": "1.0.0",
+  "description": "Lspace is an open-source API backend and server that implements the Model Context Protocol (MCP).",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "start": "node dist/index.js",
+    "start:debug": "node scripts/run-server.js",
+    "setup": "node scripts/setup-and-run.js",
+    "test:manual": "node scripts/manual-test.js",
+    "test:orchestrator": "node scripts/test-orchestrator.js",
+    "test:timeline": "node scripts/test-timeline.js",
+    "test:knowledge-base": "node scripts/test-knowledge-base.js",
+    "test:e2e": "node scripts/e2e-product-dev-test.js",
+    "test:e2e:set": "cross-env TEST_SET=$TEST_SET node scripts/e2e-product-dev-test.js",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write \"src/**/*.ts\" \"tests/**/*.ts\""
+  },
+  "keywords": [
+    "git",
+    "knowledge-base",
+    "ai",
+    "document-management",
+    "mcp",
+    "model-context-protocol",
+    "llm"
+  ],
+  "author": "Robin Spottiswoode <robin@theforever.io>",
+  "license": "BSL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lspace-io/lspace-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lspace-io/lspace-server/issues"
+  },
+  "homepage": "https://github.com/Lspace-io/lspace-server#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/js-yaml": "^4.0.9",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^20.11.30",
+    "@types/supertest": "^6.0.3",
+    "@types/uuid": "^9.0.8",
+    "@typescript-eslint/eslint-plugin": "^7.14.0",
+    "@typescript-eslint/parser": "^7.14.0",
+    "c8": "^9.1.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "supertest": "^7.1.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.3",
+    "vitest": "^1.5.0"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "gray-matter": "^4.0.3",
+    "http-status-codes": "^2.3.0",
+    "ignore": "^5.3.1",
+    "isomorphic-git": "^1.30.2",
+    "js-yaml": "^4.1.0",
+    "json-schema-to-ts": "^3.1.0",
+    "multer": "^1.4.5-lts.2",
+    "openai": "^4.100.0",
+    "uuid": "^9.0.1",
+    "zod": "^3.22.4"
+  }
+}

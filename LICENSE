@@ -1,0 +1,69 @@
+Business Source License 1.1
+
+END USER LICENSE AGREEMENT
+
+Version: 1.1
+
+Date: 2025-05-29
+
+Licensor: Robin Spottiswoode
+
+Licensed Work: The Bee Context API software and associated documentation, version 1.0, and future versions to which this license is applied.
+
+Use Limitation: The Licensed Work may not be used by any person or entity for any purpose other than those specified in the "Additional Use Grant" below, without a valid commercial license from the Licensor.
+
+Additional Use Grant: Subject to the terms and conditions of this Agreement, Licensor grants you a non-exclusive, non-transferable, non-sublicensable, worldwide license to use, copy, modify, and distribute the Licensed Work for the following purposes only:
+    1. Personal projects.
+    2. Research purposes.
+    3. Internal non-commercial use within your organization.
+    4. Evaluating the Licensed Work for potential commercial use.
+
+Change License: Apache License Version 2.0
+
+Change Date: One (1) year from the first public release date of the specific version of the Licensed Work.
+
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS.
+   "Agreement" means this End User License Agreement.
+   "Change Date" means the date on which the Licensed Work automatically converts to the Change License.
+   "Change License" means the open source license specified above.
+   "Documentation" means any accompanying documentation provided by Licensor.
+   "Licensed Work" means the software and Documentation licensed under this Agreement.
+   "Licensor" means the entity specified above.
+   "Use Limitation" means the restriction on use of the Licensed Work specified above.
+   "You" means the individual or entity exercising rights under this Agreement.
+
+2. LICENSE GRANT.
+   Subject to the terms and conditions of this Agreement, including the Use Limitation, Licensor grants You a non-exclusive, non-transferable, non-sublicensable, worldwide license to:
+   (a) use, copy, and modify the Licensed Work; and
+   (b) distribute the Licensed Work, provided that You include a copy of this Agreement with any such distribution.
+   This license is granted free of charge.
+
+3. USE LIMITATION.
+   You may not use the Licensed Work for any purpose other than as permitted by the Additional Use Grant without a separate commercial license from Licensor. For clarity, deploying the Licensed Work to provide paid services to third parties, or integrating it into a product or service that is sold or offered for a fee, is considered outside the scope of the Additional Use Grant and requires a commercial license.
+
+4. CHANGE LICENSE.
+   On the Change Date, the Use Limitation automatically terminates, and the Licensed Work will thereafter be governed by the terms and conditions of the Change License. You may, at Your option, continue to use the Licensed Work under this Agreement or adopt the Change License.
+
+5. INTELLECTUAL PROPERTY.
+   Licensor retains all right, title, and interest in and to the Licensed Work, including all intellectual property rights therein. No rights are granted to You by implication or otherwise, except as expressly set forth in this Agreement.
+
+6. DISCLAIMER OF WARRANTIES.
+   THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+
+7. LIMITATION OF LIABILITY.
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE LICENSED WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION.
+   This Agreement will terminate automatically if You breach any of its terms and conditions. Upon termination, You must cease all use of the Licensed Work and destroy all copies of the Licensed Work in Your possession.
+
+9. GOVERNING LAW.
+   This Agreement will be governed by and construed in accordance with the laws of the United Kingdom, without regard to its conflict of laws principles.
+
+10. ENTIRE AGREEMENT.
+    This Agreement constitutes the entire agreement between You and Licensor relating to the Licensed Work and supersedes all prior or contemporaneous understandings regarding such subject matter. No amendment to or modification of this Agreement will be binding unless in writing and signed by Licensor.
+
+To obtain a commercial license or for any questions regarding licensing, please contact: robin@theforever.io 

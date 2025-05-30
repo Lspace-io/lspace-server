@@ -1,0 +1,29 @@
+{
+  "credentials": {
+    "github_pats": [
+      {
+        "alias": "example_pat_alias",
+        "token": "ghp_YOUR_PERSONAL_ACCESS_TOKEN_HERE"
+      }
+    ]
+  },
+  "repositories": [
+    {
+      "name": "My Example Local Project",
+      "type": "local",
+      "path": "/path/to/your/local/git/repository_example_1",
+      "path_to_kb": ".",
+      "id": "example-local-repo-1"
+    },
+    {
+      "name": "My Example GitHub Project",
+      "type": "github",
+      "owner": "your-github-username-or-org",
+      "repo": "your-example-repository-name",
+      "branch": "main",
+      "pat_alias": "example_pat_alias",
+      "path_to_kb": ".",
+      "id": "example-github-repo-1"
+    }
+  ]
+} 
